@@ -1,5 +1,3 @@
-# ETC
-
 # ETC – Escape The Code
 
 **ETC (Escape The Code)** is a gamified platform for learning programming skills, designed as an interactive escape room challenge. Each user navigates through themed "houses" and "rooms," unlocking new concepts by solving coding challenges and discovering resources.
